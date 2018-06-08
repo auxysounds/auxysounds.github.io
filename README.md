@@ -1,4 +1,1 @@
----
-title: Auxy Sounds
----
 Hello
