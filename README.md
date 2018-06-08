@@ -29,7 +29,15 @@ Muffin
 Needy  
 Panda  
 Pasta  
-Punch  
+<details>
+  <summary>Punch</summary>
+  <table>
+    <tr><th>Info</th><td>Punch is Auxy's classic 808 sub bass, useful primarily in trap and hip-hop.</td></tr>
+    <tr><th>Tone</th><td>Adds distortion</td></tr>
+    <tr><th>Shape</th><td>Adds release. However, the release is cut off if another note starts before it ends.</td></tr>
+    <tr><th>Featured Tracks</th><td></td></tr>
+  </table>
+</details>
 Shade  
 Subway  
 Twig  
