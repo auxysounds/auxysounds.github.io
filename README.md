@@ -19,28 +19,213 @@ Welcome to the Auxy Sounds project, an informational list of all existing Auxy i
 
 ## Original Sounds
 
+Bee  
+Blob  
+Crater  
+Flag  
+Freak  
+Monk  
+Muffin  
+Needy  
+Panda  
+Pasta  
+Punch  
+Shade  
+Subway  
+Twig  
+Autumn  
+Bow  
+Bumble  
+Canoe  
+Castle  
+Cinema  
+Circle  
+Corn  
+Doodle  
+Egg  
+Fields  
+Flower  
+Gossip  
+Kiss  
+Marble  
+Mask  
+Mist  
+Morning  
+Nugget  
+Otter  
+Plum  
+Posture  
+Puppy  
+Rain  
+Runner  
+Scarf  
+Secret  
+Story  
+Strain  
+Sweeper  
+
 ## Signature Pianos
+
+Body  
+Bold  
+Chalk  
+Face  
+Flick  
+Ghost  
+Glow  
+Grain  
+Noir  
+Origin  
+Glue  
 
 ## The Sound of Vivrant
 
+Lake  
+Pressure  
+Atom  
+Coin  
+Fragment  
+Hour  
+Journey  
+Vacuum  
+Cube  
+
 ## 7 Skies Selection
+
+Gravel  
+Pepper  
+Slope  
+Climb  
+Igloo  
+Joker  
+Pug  
+Silk  
+Stress  
 
 ## RAC Essentials
 
+Barber  
+Paw  
+Purr  
+Allen  
+Bo  
+Jelly  
+June  
+Lake  
+Peg  
+Silo  
+
 ## Vintage Keys
+
+Avenue  
+Boulevard  
+Corner  
+Hotel  
+Lobby  
+Pavement  
+Sidewalk  
+Suitcase  
+Tourist  
+Transfer  
 
 ## The Future
 
+Flamingo  
+Grizzly  
+Hyena  
+Koala  
+Lizard  
+Lobster  
+Owl  
+Penguin  
+Puma  
+Tiger  
+
 ## Melodic Percussion
+
+Coconut  
+Crystal  
+Dream  
+Fairy  
+Jewel  
+Leaf  
+Oak  
+Ocean  
+Pebble  
+Tiny  
 
 ## Boom Basses
 
+Bite  
+Bomb  
+Dirt  
+Grit  
+Hug  
+Poke  
+Push  
+
 ## Destiny
+
+Beam  
+Blend  
+Breath  
+Racer  
+Glare  
+Mascara  
+Spray  
+Tonsil  
+Vapor  
+Vessel  
 
 ## Acoustic Guitars
 
+Bold Dreamer  
+Bold Nylon  
+Bold Steel  
+Gentle Dreamer  
+Gentle Nylon  
+Gentle Steel  
+Harmonic Steel  
+Pony  
+Synthetic Nylon  
+Synthetic Steel  
+
 ## Orchestral Strings
+
+Double Section  
+Double Staccato  
+Cello Pizzicato  
+Cello Section  
+Cello Staccato  
+Viola Pizzicato  
+Viola Section  
+Viola Staccato  
+Violin Pizzicato  
+Violin Section  
+Violin Staccato  
 
 ## Sweet Pads
 
+Sweet Aaa  
+Sweet Hollow  
+Sweet Knarr  
+Sweet Mys  
+Sweet Ooo  
+Sweet Pipe  
+Sweet Saw  
+Sweet Sine  
+Sweet Spring  
+Sweet Square  
+
 ## Disturbing Leads
+
+Belt  
+Cone  
+Crook  
+Fuze  
+Guts  
+Hive  
+Mental  
+Telecoms  
+Wasp  
+Weld  
