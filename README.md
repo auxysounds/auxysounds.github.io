@@ -1,8 +1,3 @@
----
-title: Auxy Sounds
-layout: post
----
-
 Welcome to the Auxy Sounds project, an informational list of all existing Auxy instruments. You can view the source code the project, or contribute to it, at [https://github.com/auxysounds](https://github.com/auxysounds). To contribute, [create an "issue"](https://github.com/auxysounds/auxysounds.github.io/issues/new) (this requires a GitHub account).
 
 ## Table of Contents
