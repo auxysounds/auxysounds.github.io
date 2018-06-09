@@ -129,7 +129,7 @@ Pug
     <tr><th>Info</th><td>Silk is a supersaw instrument generally used for future bass chords (wub wub wub wub wubwub wub, etc.) or ambient atmospheres. </td></tr>
     <tr><th>Tone</th><td>Adds phaser.</td></tr>
     <tr><th>Shape</th><td>Adds attack and release.</td></tr>
-    <tr><th>Featured Tracks</th><td><a href="https://soundcloud.com/austin_haga/05-juici">https://soundcloud.com/austin_haga/05-juici</a><br><a href="https://soundcloud.com/produkmusic/singularity">https://soundcloud.com/produkmusic/singularity</a></td></tr>
+    <tr><th>Featured Tracks</th><td><a href="https://soundcloud.com/austin_haga/05-juici">https://soundcloud.com/austin_haga/05-juici</a><br><a href="https://soundcloud.com/produkmusic/singularity">https://soundcloud.com/produkmusic/singularity</a><br><a href="https://soundcloud.com/silkwubs/appalachian">https://soundcloud.com/silkwubs/appalachian</a></td></tr>
   </table>
 </details>
 Stress  
