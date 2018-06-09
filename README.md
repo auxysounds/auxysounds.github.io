@@ -1,4 +1,4 @@
-Welcome to the Auxy Sounds project, an informational list of all existing Auxy instruments. You can view the source code the project, or contribute to it, at [https://github.com/auxysounds](https://github.com/auxysounds).
+Welcome to the Auxy Sounds project, an informational list of all existing Auxy instruments. You can view the source code the project, or contribute to it, at [https://github.com/auxysounds](https://github.com/auxysounds). To contribute, [create an "issue"](https://github.com/auxysounds/auxysounds.github.io/issues/new) (this requires a GitHub account).
 
 ## Table of Contents
 
@@ -35,11 +35,19 @@ Pasta
     <tr><th>Info</th><td>Punch is Auxy's classic 808 sub bass, useful primarily in trap and hip-hop.</td></tr>
     <tr><th>Tone</th><td>Adds distortion</td></tr>
     <tr><th>Shape</th><td>Adds release. However, the release is cut off if another note starts before it ends.</td></tr>
-    <tr><th>Featured Tracks</th><td></td></tr>
+    <tr><th>Featured Tracks</th><td><a href="https://soundcloud.com/beatsbyeddxe/project">https://soundcloud.com/beatsbyeddxe/project</a></td></tr>
   </table>
 </details>
 Shade  
-Subway  
+<details>
+  <summary>Subway</summary>
+  <table>
+    <tr><th>Info</th><td>Subway is a grimey, noisy bass, which can be used for dubstep or other heavy electronic genres.</td></tr>
+    <tr><th>Tone</th><td>Adds flanger.</td></tr>
+    <tr><th>Shape</th><td>Adds attack and release.</td></tr>
+    <tr><th>Featured Tracks</th><td></td></tr>
+  </table>
+</details>
 Twig  
 Autumn  
 Bow  
@@ -93,13 +101,21 @@ Pressure
 Atom  
 Coin  
 Fragment  
-Hour  
+<details>
+  <summary>Hour</summary>
+  <table>
+    <tr><th>Info</th><td>Hour is a simple yet versatile supersaw instrument that is most commonly used for chords and ambient drones.</td></tr>
+    <tr><th>Tone</th><td>Adds glide between notes.</td></tr>
+    <tr><th>Shape</th><td>Adds slight attack and release.</td></tr>
+    <tr><th>Featured Tracks</th><td><a href="https://soundcloud.com/austin_haga/changes">https://soundcloud.com/austin_haga/changes</a><br><a href="https://soundcloud.com/decruz-182260894/awoke">https://soundcloud.com/decruz-182260894/awoke</a><br><a href="https://soundcloud.com/stereofld/shift">https://soundcloud.com/stereofld/shift</a></td></tr>
+  </table>
+</details>
 Journey  
 Vacuum  
-Cube  
 
 ## 7 Skies Selection
 
+Cube  
 Gravel  
 Pepper  
 Slope  
@@ -107,7 +123,15 @@ Climb
 Igloo  
 Joker  
 Pug  
-Silk  
+<details>
+  <summary>Silk</summary>
+  <table>
+    <tr><th>Info</th><td>Silk is a supersaw instrument generally used for future bass chords (wub wub wub wub wubwub wub, etc.) or ambient atmospheres. </td></tr>
+    <tr><th>Tone</th><td>Adds phaser.</td></tr>
+    <tr><th>Shape</th><td>Adds attack and release.</td></tr>
+    <tr><th>Featured Tracks</th><td><a href="https://soundcloud.com/austin_haga/05-juici">https://soundcloud.com/austin_haga/05-juici</a><br><a href="https://soundcloud.com/produkmusic/singularity">https://soundcloud.com/produkmusic/singularity</a></td></tr>
+  </table>
+</details>
 Stress  
 
 ## RAC Essentials
