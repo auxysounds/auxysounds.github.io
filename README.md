@@ -16,6 +16,8 @@ Welcome to the Auxy Sounds project, an informational list of all existing Auxy i
 - [Orchestral Strings](#orchestral-strings)
 - [Sweet Pads](#sweet-pads)
 - [Disturbing Leads](#disturbing-leads)
+- [Game Waves](#game-waves)
+- [Hipster Horns](#hipster-horns)
 
 ## Original Sounds
 
@@ -261,3 +263,29 @@ Mental
 Telecoms  
 Wasp  
 Weld  
+
+## Game Waves
+
+Player One  
+Player Two  
+Restart  
+Bitty  
+Fantasy  
+Floppy  
+Joystick  
+Kilobyte  
+Mania  
+Pixel  
+
+## Hipster Horns
+
+Bright Horn  
+Bright Saxophone  
+Bright Trombone  
+Bright Trumpet  
+Dark Horn  
+Dark Trombone  
+Dark Trumpet  
+Dark Tuba  
+Wild Saxophone  
+Wild Trombone  
