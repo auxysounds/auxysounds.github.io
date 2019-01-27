@@ -105,10 +105,10 @@ Glow
 Grain  
 Noir  
 Origin  
-Glue  
 
 ## The Sound of Vivrant
 
+Glue  
 Lake  
 Pressure  
 Atom  
