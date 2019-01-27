@@ -18,6 +18,10 @@ Welcome to the Auxy Sounds project, an informational list of all existing Auxy i
 - [Disturbing Leads](#disturbing-leads)
 - [Game Waves](#game-waves)
 - [Hipster Horns](#hipster-horns)
+- [Retrofit](#retrofit)
+- [Standard Deviation](#standard-deviation)
+- [Euphoric Memories](#euphoric-memories)
+- [Heavy Bass](#heavy-bass)
 
 ## Original Sounds
 
@@ -289,3 +293,56 @@ Dark Trumpet
 Dark Tuba  
 Wild Saxophone  
 Wild Trombone  
+
+## Retrofit
+
+Cactus  
+Exhaust  
+Promenade  
+Cassette  
+High Heels  
+McFluty  
+Ooze  
+Opal  
+Pastel  
+Reflex  
+
+## Standard Deviation
+
+Bubble  
+Organism  
+Velvet  
+Clever  
+Cluster  
+Loner  
+Object  
+Orbit  
+Radiant  
+Vintage  
+
+## Euphoric Memories
+
+Claw  
+Tense  
+8080  
+Azid  
+Blanket  
+Nerve  
+Pick  
+Riff  
+Solar  
+Wire  
+
+## Heavy Bass
+
+Angry  
+Arch  
+Block  
+Crust  
+Dimension  
+Doll  
+Frenzy  
+Melt  
+Slag  
+Voodoo  
+Wizard  
