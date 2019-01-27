@@ -31,17 +31,19 @@ Crater
 Flag  
 Freak  
 Monk  
-Muffin  
+<details>
+  <summary>Muffin</summary>
+  <table>
+    <tr><th>Description</th><td>Basic 80s house organ bass.</td></tr>
+  </table>
+</details>  
 Needy  
 Panda  
 Pasta  
 <details>
   <summary>Punch</summary>
   <table>
-    <tr><th>Info</th><td>Punch is Auxy's classic 808 sub bass, useful primarily in trap and hip-hop.</td></tr>
-    <tr><th>Tone</th><td>Adds distortion</td></tr>
-    <tr><th>Shape</th><td>Adds release. However, the release is cut off if another note starts before it ends.</td></tr>
-    <tr><th>Featured Tracks</th><td><a href="https://soundcloud.com/beatsbyeddxe/project">https://soundcloud.com/beatsbyeddxe/project</a></td></tr>
+    <tr><th>Description</th><td>The original 808-style bass. Less distorted and more sine-wavey than the <a href="#boom-basses">Boom Basses</a>.</td></tr>
   </table>
 </details>
 Shade  
@@ -63,7 +65,12 @@ Castle
 Cinema  
 Circle  
 Corn  
-Doodle  
+<details>
+  <summary>Doodle</summary>
+  <table>
+    <tr><th>Description</th><td>Basic pluck sound with a sawtooth wave.</td></tr>
+  </table>
+</details>  
 Egg  
 Fields  
 Flower  
@@ -110,10 +117,7 @@ Fragment
 <details>
   <summary>Hour</summary>
   <table>
-    <tr><th>Info</th><td>Hour is a simple yet versatile supersaw instrument that is most commonly used for chords and ambient drones.</td></tr>
-    <tr><th>Tone</th><td>Adds glide between notes.</td></tr>
-    <tr><th>Shape</th><td>Adds slight attack and release.</td></tr>
-    <tr><th>Featured Tracks</th><td><a href="https://soundcloud.com/austin_haga/changes">https://soundcloud.com/austin_haga/changes</a><br><a href="https://soundcloud.com/decruz-182260894/awoke">https://soundcloud.com/decruz-182260894/awoke</a><br><a href="https://soundcloud.com/stereofld/shift">https://soundcloud.com/stereofld/shift</a></td></tr>
+    <tr><th>Description</th><td>Simple chorused supersaw that can be used for a variety of styles.</td></tr>
   </table>
 </details>
 Journey  
@@ -132,13 +136,15 @@ Pug
 <details>
   <summary>Silk</summary>
   <table>
-    <tr><th>Info</th><td>Silk is a supersaw instrument generally used for future bass chords (wub wub wub wub wubwub wub, etc.) or ambient atmospheres. </td></tr>
-    <tr><th>Tone</th><td>Adds phaser.</td></tr>
-    <tr><th>Shape</th><td>Adds attack and release.</td></tr>
-    <tr><th>Featured Tracks</th><td><a href="https://soundcloud.com/austin_haga/05-juici">https://soundcloud.com/austin_haga/05-juici</a><br><a href="https://soundcloud.com/produkmusic/singularity">https://soundcloud.com/produkmusic/singularity</a><br><a href="https://soundcloud.com/silkwubs/appalachian">https://soundcloud.com/silkwubs/appalachian</a></td></tr>
+    <tr><th>Description</th><td>Slightly resonant supersaw, commonly used for future bass "wub" chords.</td></tr>
+  </table>
+</details>  
+<details>
+  <summary>Stress</summary>
+  <table>
+    <tr><th>Description</th><td>The original square wave, simple and distorted.</td></tr>
   </table>
 </details>
-Stress  
 
 ## RAC Essentials
 
@@ -146,7 +152,7 @@ Barber
 Paw  
 Purr  
 Allen  
-Bo  
+Bo    
 Jelly  
 June  
 Lake  
