@@ -22,6 +22,29 @@ Welcome to the Auxy Sounds project, an informational list of all existing Auxy i
 - [Standard Deviation](#standard-deviation)
 - [Euphoric Memories](#euphoric-memories)
 - [Heavy Bass](#heavy-bass)
+- [Pluck Pluck Go]
+- [Odd Makeup]
+- [Panic Attack]
+- [Dirty House Selection]
+- [Skewed Orbit]
+- [Save The Ocean]
+- [Sublab]
+- [Dark Patterns]
+- [Martland Guitars]
+- [Mixed Moods]
+- [DX100 From Mars]
+- [Spatial Intelligence]
+- [Sublab 2]
+- [Soviet Synths From Mars]
+- [Mixed Messages]
+- [Low Fidelity]
+- [SK1 From Mars]
+- [Solar Eclipse]
+- [OB From Mars]
+- [101 From Mars]
+- [Frozen Lake]
+- [VP330 From Mars]
+- [SH5 From Mars]
 
 ## Original Sounds
 
